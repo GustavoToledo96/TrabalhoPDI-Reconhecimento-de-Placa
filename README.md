@@ -11,3 +11,7 @@ In order to run this project, you will need to fulfill the following requirement
 
 ### To run the project
 After the download is completed and the requirements are fulfilled, execute the file `./src/app.py`.
+
+
+### Important
+The work was carried out with the aim of explaining the operation of image recognition for reading vehicle license plates.
